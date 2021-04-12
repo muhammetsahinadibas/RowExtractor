@@ -30,13 +30,3 @@ print(str(in_number) + " rows have been extracted!")
 
 DataFile.close()
 OutputFile.close()
-
-
-
-
-
-
-
-
-
-
