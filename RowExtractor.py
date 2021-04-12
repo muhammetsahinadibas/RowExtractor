@@ -18,6 +18,7 @@ query = input("\nEnter the value to search: ")
 
 DataFile = open(DataFileName,"r",encoding='utf8')
 OutputFile = open(query + "_output.txt","a",encoding='utf8')
+
 in_number = 0
 
 for row in DataFile:
