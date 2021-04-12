@@ -12,6 +12,6 @@ Dosyada aranan değeri içeren satırları çıkaran python aracı.
 
 Kullanımı:
 1) python RowExtractor.py
-2) Veri dosyası adını girin (örnek --> veri.txt) | Enter data file name (example --> data.txt) |     
-3) Aranacak değeri girin | Enter the value to search |
+2) Veri dosyası adını girin (örnek --> veri.txt)   
+3) Aranacak değeri girin 
 
