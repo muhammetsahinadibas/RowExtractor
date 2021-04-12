@@ -21,7 +21,10 @@ Araç, satırları başka bir metin dosyasına çıkaracaktır.
 
 ------------------------------------------------------------------------------
 
-Developer: Muhammet Sahin Adibas
-Twitter: twitter.com/muhammetadibas 
-Blog: muhammetsahinadibas.com.tr
-Github: github.com/muhammetsahinadibas 
+- Developer: Muhammet Sahin Adibas
+- Twitter: twitter.com/muhammetadibas 
+- Blog: muhammetsahinadibas.com.tr
+- Github: github.com/muhammetsahinadibas 
+
+
+
